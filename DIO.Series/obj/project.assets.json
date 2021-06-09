@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jhona\\OneDrive\\Documentos\\bootcamp-dio-gft\\Revisao\\Revisao.csproj",
-      "projectName": "Revisao",
-      "projectPath": "C:\\Users\\jhona\\OneDrive\\Documentos\\bootcamp-dio-gft\\Revisao\\Revisao.csproj",
+      "projectUniqueName": "C:\\Users\\jhona\\OneDrive\\Documentos\\bootcamp-dio-gft\\DIO.Series\\DIO.Series.csproj",
+      "projectName": "DIO.Series",
+      "projectPath": "C:\\Users\\jhona\\OneDrive\\Documentos\\bootcamp-dio-gft\\DIO.Series\\DIO.Series.csproj",
       "packagesPath": "C:\\Users\\jhona\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jhona\\OneDrive\\Documentos\\bootcamp-dio-gft\\Revisao\\obj\\",
+      "outputPath": "C:\\Users\\jhona\\OneDrive\\Documentos\\bootcamp-dio-gft\\DIO.Series\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\jhona\\AppData\\Roaming\\NuGet\\NuGet.Config"
